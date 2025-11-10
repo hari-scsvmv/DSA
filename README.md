@@ -9,11 +9,11 @@ Each program is implemented from scratch and focuses on understanding how data s
 
 # Data Structures and Algorithms Record
 ### 📂 Submitted by  
-**Name:** Vasudeva Hari 
-**Register No:** 11249A407  
-**Course:** B.Tech CSE (AI & DS)  
-**Subject:** Data Structures and Algorithms    
-**Year & Semester:** 2nd yr, 1st sem 
+- **Name:**  Vasudeva Hari 
+- **Register No:** 11249A407  
+- **Course:** B.Tech CSE (AI & DS)  
+- **Subject:** Data Structures and Algorithms    
+- **Year & Semester:** 2nd yr, 1st sem 
 
 
 
